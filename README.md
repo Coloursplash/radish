@@ -1,3 +1,5 @@
 # radish
 
 A RADIcal SHell.
+
+# WARNING - STILL IN VERY EARLY DEVELOPMENT
